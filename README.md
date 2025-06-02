@@ -137,10 +137,6 @@ face-verification-pytorch/
 - Convert to tensor
 - Normalize with ImageNet mean/std
 
-##  License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ##  Acknowledgments
 
 - **LFW Dataset**: University of Massachusetts, Amherst
